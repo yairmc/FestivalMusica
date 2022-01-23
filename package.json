@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yairmc/UdemyProjects.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Ricardo Yair Martinez Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yairmc/UdemyProjects/issues"
+  },
+  "homepage": "https://github.com/yairmc/UdemyProjects#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
