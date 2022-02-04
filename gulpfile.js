@@ -5,10 +5,10 @@ const plumber = require('gulp-plumber');
 
 function css(done){
     src('src/scss/**/*.scss')//identificar el archivo  .SCSS a compilar
-        .pipe(plumber())
-        .pipe( sass())// compilarlo
-        .pipe(dest('build/css'))// almacenarlo
-        
+    .pipe(plumber())
+    .pipe( sass())// compilarlo
+    .pipe(dest('build/css'))// almacenarlo
+    
     done();
 }
 
