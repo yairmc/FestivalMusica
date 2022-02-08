@@ -1,7 +1,6 @@
-# Minificando peso de las imagenes con gulp-imagemin, gulp-avif, gulp-webp y gulp-cache
-# Creando funciones para convertir y direccionar a una carpeta dichas imagenes
-# Utilizando y crando snipets para html sobre creacion de imagenes
-# creacion y finalizacion del lineup y calendario de la pagina
-# se agrego una ventana modal con previsualizacion de imagenes
+# agregando el footer
+# Mejorando el performance de codigo gulp y CSS Nano
+# Source map
+# Finalizacion del proyecto
 
-# Udemy video 194
+# Udemy video 205
